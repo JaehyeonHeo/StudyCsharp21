@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4A6422E3-3F84-447D-8C21-076A4C2798BF}</ProjectGuid>
+    <ProjectGuid>{249D2B80-D4A8-453D-80D6-7EEA5E64DFC9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Chapter03App</RootNamespace>
-    <AssemblyName>Chapter03App</AssemblyName>
+    <RootNamespace>VarTestApp</RootNamespace>
+    <AssemblyName>VarTestApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="chapter03.cs" />
+    <Compile Include="varTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CharTestApp
 {
-    class Program
+    class charTest
     {
         static void Main(string[] args)
         {

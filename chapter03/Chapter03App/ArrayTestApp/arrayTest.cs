@@ -2,7 +2,7 @@
 
 namespace ArrayTestApp
 {
-    class Program
+    class arrayTest
     {
         static void Main(string[] args)
         {

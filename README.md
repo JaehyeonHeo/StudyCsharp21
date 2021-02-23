@@ -1,6 +1,6 @@
 # StydyCsharp  
 
-* PKNU C# 학습 리파지토리  
+* C# 학습 리파지토리  
 
 ## Basic C#  
 

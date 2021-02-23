@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chap04App", "chap04App\chap04App.csproj", "{9F81B9A8-9421-432D-8651-62BE84CD1692}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chap04App", "chap04App\chap04App.csproj", "{9F81B9A8-9421-432D-8651-62BE84CD1692}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncDecTestApp", "increaseTestApp\IncDecTestApp.csproj", "{D666EAF6-0C93-4DFE-94FC-EADB8D5A38FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringConcatApp", "stringConcatApp\stringConcatApp.csproj", "{C074564D-E408-4B39-A1BE-5A61ABB1B1CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D666EAF6-0C93-4DFE-94FC-EADB8D5A38FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D666EAF6-0C93-4DFE-94FC-EADB8D5A38FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D666EAF6-0C93-4DFE-94FC-EADB8D5A38FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C074564D-E408-4B39-A1BE-5A61ABB1B1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C074564D-E408-4B39-A1BE-5A61ABB1B1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C074564D-E408-4B39-A1BE-5A61ABB1B1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C074564D-E408-4B39-A1BE-5A61ABB1B1CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

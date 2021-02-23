@@ -25,7 +25,7 @@ namespace LoopTestApp
 
 
             //Do-while 문
-            Console.WriteLine("dowhile문 처리"); 
+            Console.WriteLine("do,while문 처리"); 
             do
             {
                 Console.WriteLine($"숫자 {a}");

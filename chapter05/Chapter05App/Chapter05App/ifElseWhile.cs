@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chapter05App
 {
-    class Program
+    class ifElseWhile
     {
         static void Main(string[] args)
         {

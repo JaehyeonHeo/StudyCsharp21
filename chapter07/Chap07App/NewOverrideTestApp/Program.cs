@@ -46,6 +46,7 @@ namespace NewOverrideTestApp
     {
         public override void Move()  // override를 사용하면 부모의 메서드를 재정의 한다. 
         {
+            base.Move(); 
             Console.WriteLine($"{this.Name}이(가) 헤엄쳐서 움직인다.");
         }
 

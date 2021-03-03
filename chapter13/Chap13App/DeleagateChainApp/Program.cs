@@ -17,18 +17,18 @@ namespace DeleagateChainApp
         static void Main(string[] args)
         {
             Console.WriteLine("Calculating!");
-            AllCalc allCalc = Plus;
+            AllCalc allCalc = new AllCalc(Plus);
             allCalc += Minus;
             allCalc += Multiple;
             allCalc += Divide;
 
             allCalc(10, 5);
 
-            Console.WriteLine("곱셈메서드 제거");
+            Console.WriteLine(">>>>>>>>>>>곱셈메서드 제거");
             allCalc -= Multiple;
             allCalc(10, 5);
 
-            Console.WriteLine("곱셈추가후 40, 2로 숫자변경");
+            Console.WriteLine(">>>>>>>>>>>곱셈추가후 40, 2로 숫자변경");
             allCalc += Multiple;
             allCalc(40, 2);
 

@@ -7,10 +7,10 @@ C# 학습을 위한 리파지토리
 ## ✔ Basic C#  
 
 기본문법 학습  
-📚[study C#](https://github.com/JaehyeonHeo/StudyCsharp21)  
+  📚[study C#](https://github.com/JaehyeonHeo/StudyCsharp21)  
 
 ## ✔ AddressBook(주소록) 만들기 
-📚[AddressBook 코드](https://github.com/JaehyeonHeo/StudyCsharp21/commit/44a166652ef361dd64a17fb50f3a8bf5ccc1e612)    
+  📚[AddressBook 코드](https://github.com/JaehyeonHeo/StudyCsharp21/commit/44a166652ef361dd64a17fb50f3a8bf5ccc1e612)    
 * 프로그램 매인화면    
 ![시작화면](https://github.com/JaehyeonHeo/StudyCsharp21/blob/74e4d7f5c00a2afcc8f412b1639933486929bea2/main.png?raw=true "프로그램 매인 화면")  
 * 메뉴 실행   

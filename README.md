@@ -22,6 +22,6 @@ C# 학습을 위한 리파지토리
 ![6.프로그램 종료](https://raw.githubusercontent.com/JaehyeonHeo/StudyCsharp21/74e4d7f5c00a2afcc8f412b1639933486929bea2/6.png "프로그램종료")  
   
   
-[🔙뒤로]( https://github.com/JaehyeonHeo)
+## [🔙뒤로]( https://github.com/JaehyeonHeo)
 
 

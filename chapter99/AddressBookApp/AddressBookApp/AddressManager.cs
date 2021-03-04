@@ -27,7 +27,7 @@ namespace AddressBookApp
         public int SelectMenu()
         {
             // 메뉴 번호 입력
-            Console.WriteLine("메뉴를 선택하세요 >>>>");
+            Console.WriteLine("");
             string input = Console.ReadLine();
             int.TryParse(input, out int result);
             if (!(result > 0 && result < 7))

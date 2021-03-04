@@ -1,4 +1,4 @@
-# StydyCsharp  
+# StdyCsharp  
 
 * C# 학습 리파지토리  
 
